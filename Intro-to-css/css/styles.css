@@ -1,0 +1,36 @@
+/*Children of the body element */
+   
+  body{  
+	font-family: Arial, Verdana, sans-serif;
+	
+	}
+	
+#container{
+
+	border: 1px solid #665544;
+	background-color: #efefef;
+	padding: 10px;
+	}
+
+/*Headings*/
+
+ h1, h2{
+	color: #ee3e80
+}
+/*Paragraphs*/
+
+p {
+	color: #665544
+	}
+
+/*Strong element*/
+
+p > strong{
+	color: green;
+	}
+
+
+/*em elements*/
+p > em {
+	color: violet;
+	}
