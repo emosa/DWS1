@@ -1,0 +1,22 @@
+/* HEX and RGB colors from adobe Kuler
+*/
+
+body {
+   background-color: #363636; /* Mine Shaft */
+   background-color: hsla(70, 20%, 45%, 7);
+  }
+
+p  {
+   background-color: #F2EFDC; /* Ecru White */
+}
+
+  
+h1, h2, h3 { 
+   background-color: rgb(3,126,140); /*#037E8C Blue Lagoon */
+  }
+
+ 
+ ul > li {
+   background-color: rgb(231,76,48); /* Cinnabar */
+}
+
