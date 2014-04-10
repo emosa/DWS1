@@ -11,10 +11,11 @@ p  {
 
   
 h1, h2, h3 { 
-   background-color: #037E8C; /* Blue Lagoon */
+   background-color: rgb(3,126,140); /*#037E8C Blue Lagoon */
   }
 
  
  ul > li {
    background-color: rgb(231,76,48); /* Cinnabar */
 }
+
