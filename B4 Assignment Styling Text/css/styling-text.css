@@ -1,0 +1,54 @@
+/* HEX and RGB colors from adobe Kuler
+*/
+
+body {
+   background-color: #363636; /* Mine Shaft */
+   background-color: hsla(70, 20%, 45%, 7);
+  }
+
+p  {
+   background-color: #F2EFDC; /* Ecru White */ font-family:'Nunito', sans-serif;line-height: 1.4em; word-spacing:1px;text-indent:20px;
+}
+
+  
+h1, h2, h3 { 
+   background-color: rgb(3,126,140); /*#037E8C Blue Lagoon */
+   
+  }
+
+ 
+ ul > li {
+   background-color: rgb(231,76,48); /* Cinnabar */ font-family: 'Titillium Web', cursive;
+   color: white; 
+}
+
+h1 {
+   font-family:'Lobster', cursive; color:#F2EFDC; text-align:center; text-shadow: 2px 2px #666666; font-size: 100px;
+   }
+   
+h2 {
+  font-family: 'Spinnaker', cursive; font-size: 30px; color:white;
+   }
+   
+   
+h3 { 
+  font-family: 'Bad Script', cursive; color: white; text-transform:uppercase;
+
+}
+   
+a:hover 
+  {
+   text-decoration: underline;
+   }
+a:active
+  { 
+   background-color:green;
+  } 
+a:visited
+  { 
+   background-color:yellow;
+  }
+a:link
+  color: blue;
+{
+ 
