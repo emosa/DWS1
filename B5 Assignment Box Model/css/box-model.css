@@ -3,9 +3,16 @@
 
 body {
    background-color: #363636; /* Mine Shaft */
-   background-color: hsla(70, 20%, 45%, 7);
+   background-color: hsla(70, 20%, 45%, 7)
    
-   
+  }
+  
+  #content
+  {
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-right:20px;
+  margin-left:20px;
   }
 
 p  {
@@ -14,13 +21,37 @@ p  {
    line-height: 1.4em; 
    word-spacing:1px;
    text-indent:20px;
-   
-}
+   overflow: hidden;
+   border-width: 2px;
+   padding:15px;
+   border-style:solid;
+   margin:0px auto;
+   text-align:left;
+   overflow: hidden;
+   -webkit-box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   -moz-box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   border-radius: 31px 31px 31px 31px;
+   -moz-border-radius: 31px 31px 31px 31px;
+   -webkit-border-radius: 31px 31px 31px 31px;
+   border: 0px solid #000000;
+  }
 
+#boxone {
+  margin-bottom: 10px;
+  }
+
+#boxtwo {
+  margin-bottom: 10px;
+  }
   
+#boxthree {
+  margin-bottom: 10px;
+  }
+
+
 h1, h2, h3 { 
    background-color: rgb(3,126,140); /*#037E8C Blue Lagoon */
-   
   }
 
 ul > li {
@@ -28,7 +59,7 @@ ul > li {
    font-family: 'Titillium Web', cursive;
    color: white; 
    list-style-type:square;
-}
+  }
 
 h1 {
    font-family:'Lobster', cursive; 
@@ -36,88 +67,57 @@ h1 {
    text-align:center; 
    text-shadow: 2px 2px #666666; 
    font-size: 100px;
-   
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000; 
    }
    
 h2 {
-  font-family: 'Spinnaker', cursive; 
-  font-size: 30px; 
-  color:white;
+   font-family: 'Spinnaker', cursive; 
+   font-size: 30px; 
+   color:white;
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000;
+
    }
    
    
 h3 { 
-  font-family: 'Bad Script', cursive; 
-  color: white; 
-  text-transform:uppercase;
-
+   font-family: 'Bad Script', cursive; 
+   color: white; 
+   text-transform:uppercase;
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000;
 }
-  /* 
-a:hover 
-  {
+
+a:hover {
    text-decoration: underline;
    }
-a:active
-  { 
+a:active { 
    background-color:green;
   } 
-a:visited
-  { 
+a:visited { 
    background-color:yellow;
   }
-a:link
+a:link {
    color: blue;
-{
- 
- */
- 
- 
-p { 
-   overflow: hidden;
   }
+ 
 
-#listone
-  {
+#listone {
    overflow: hidden;
   }
-#listwo 
-  {
+#listwo {
    overflow: hidden;
   }
- 
-#nav ul {
-    float : right;
-    list-style : none;
-    margin : 10;
-    padding : 10;
-}
-#nav ul li {
-    display : inline;
-}
-#nav ul li a {
-    display: inline;
-    float : left;
-    padding : 0 10px;
-    color : #EDEDED;
-    text-decoration : none;
-}
-#nav ul li a:hover {
-    color :green;
-}
-#nav ul li#selected a {   /* this changes color of the menu item of current page */
-    color : yellow;
-}
- 
- 
- 
- 
-/*#Content 
-  {
-   width:500px;
-   margin:0px auto;
-   text-align:left;
-   padding:15px;
-   border:1px dashed #333;
-   background-color:#eee;
-  }
-*/	
+  
+  
+  
