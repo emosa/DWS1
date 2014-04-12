@@ -59,7 +59,7 @@ a:link
  
 p { overflow: hidden;}
 
-ul {overflow: hidden;}
+ul li {overflow: hidden;}
  
 /*#Content 
   {
