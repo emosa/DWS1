@@ -52,7 +52,7 @@ h3 {
   text-transform:uppercase;
 
 }
-   
+  /* 
 a:hover 
   {
    text-decoration: underline;
@@ -69,6 +69,8 @@ a:link
    color: blue;
 {
  
+ */
+ 
  
 p { 
    overflow: hidden;
@@ -84,10 +86,10 @@ p {
   }
  
 #nav ul {
-    float : left;
+    float : right;
     list-style : none;
-    margin : 0;
-    padding : 0;
+    margin : 10;
+    padding : 10;
 }
 #nav ul li {
     display : inline;
