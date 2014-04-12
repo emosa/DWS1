@@ -9,7 +9,11 @@ body {
   }
 
 p  {
-   background-color: #F2EFDC; /* Ecru White */ font-family:'Nunito', sans-serif;line-height: 1.4em; word-spacing:1px;text-indent:20px;
+   background-color: #F2EFDC; /* Ecru White */ 
+   font-family:'Nunito', sans-serif;
+   line-height: 1.4em; 
+   word-spacing:1px;
+   text-indent:20px;
    
 }
 
@@ -20,22 +24,32 @@ h1, h2, h3 {
   }
 
 ul > li {
-   background-color: rgb(231,76,48); /* Cinnabar */ font-family: 'Titillium Web', cursive;
-   color: white; list-style-type:square; overflow: hidden;
+   background-color: rgb(231,76,48); /* Cinnabar */ 
+   font-family: 'Titillium Web', cursive;
+   color: white; 
+   list-style-type:square;
 }
 
 h1 {
-   font-family:'Lobster', cursive; color:#F2EFDC; text-align:center; text-shadow: 2px 2px #666666; font-size: 100px;
+   font-family:'Lobster', cursive; 
+   color:#F2EFDC; 
+   text-align:center; 
+   text-shadow: 2px 2px #666666; 
+   font-size: 100px;
    
    }
    
 h2 {
-  font-family: 'Spinnaker', cursive; font-size: 30px; color:white;
+  font-family: 'Spinnaker', cursive; 
+  font-size: 30px; 
+  color:white;
    }
    
    
 h3 { 
-  font-family: 'Bad Script', cursive; color: white; text-transform:uppercase;
+  font-family: 'Bad Script', cursive; 
+  color: white; 
+  text-transform:uppercase;
 
 }
    
@@ -56,10 +70,44 @@ a:link
 {
  
  
-p { overflow: hidden;}
+p { 
+   overflow: hidden;
+  }
 
-#listone{overflow: hidden;}
-#listwo{overflow: hidden;}
+#listone
+  {
+   overflow: hidden;
+  }
+#listwo 
+  {
+   overflow: hidden;
+  }
+ 
+ #nav-bar ul {
+    float : left;
+    list-style : none;
+    margin : 0;
+    padding : 0;
+}
+#nav-bar ul li {
+    display : inline;
+}
+#nav-bar ul li a {
+    display: inline;
+    float : left;
+    padding : 0 10px;
+    color : #EDEDED;
+    text-decoration : none;
+}
+#nav-bar ul li a:hover {
+    color : #AAAAAA;
+}
+#nav-bar ul li#selected a {   /* this changes color of the menu item of current page */
+    color : #AAAAAA;
+}
+ 
+ 
+ 
  
 /*#Content 
   {
