@@ -59,7 +59,8 @@ a:link
  
 p { overflow: hidden;}
 
-ul < li {overflow: hidden;}
+#listone {overflow: hidden;}
+#listwo{overflow: hidden;}
  
 /*#Content 
   {
