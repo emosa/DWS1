@@ -19,9 +19,8 @@ h1, h2, h3 {
    
   }
 
- 
- ul > li {
-   background-color: rgb(231,76,48); /* Cinnabar */ font-family: 'Titillium Web', cursive;
+ul > li {
+   background-color: rgb(231,76,48),overflow: hidden; /* Cinnabar */ font-family: 'Titillium Web', cursive;
    color: white; list-style-type:square;
 }
 
@@ -59,7 +58,7 @@ a:link
  
 p { overflow: hidden;}
 
-#listone {overflow: hidden;}
+#listone{overflow: hidden;}
 #listwo{overflow: hidden;}
  
 /*#Content 
