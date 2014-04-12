@@ -56,7 +56,15 @@ a:link
    color: blue;
 {
  
-#Content 
+ 
+p.one { overflow: hidden;}
+p.two { overflow: scroll;}
+p.three{ overflow: hidden;}
+p.four{ overflow: scroll;}  
+p.five{ overflow: hidden;} 
+ 
+ 
+/*#Content 
   {
    width:500px;
    margin:0px auto;
@@ -65,14 +73,4 @@ a:link
    border:1px dashed #333;
    background-color:#eee;
   }
-	
-#h1
-{
-   padding: 100px;
-   text-align: center;
-   width: 600px; 
-   margin: 10px auto; 
-   border: 1px solid black;
-   border-radius: 20px;
-   box-shadow:rgba(0,0,0,0.8) 0 0 10px;
-}
+*/	
