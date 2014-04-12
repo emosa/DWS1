@@ -57,12 +57,8 @@ a:link
 {
  
  
-p.one { overflow: hidden;}
-p.two { overflow: scroll;}
-p.three{ overflow: hidden;}
-p.four{ overflow: scroll;}  
-p.five{ overflow: hidden;} 
- 
+p { overflow: hidden;}
+
  
 /*#Content 
   {
