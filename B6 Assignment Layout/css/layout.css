@@ -1,0 +1,133 @@
+/* HEX and RGB colors from adobe Kuler
+*/
+
+body {
+   background-color: #363636; /* Mine Shaft */
+   background-color: hsla(70, 20%, 45%, 7)
+   
+  }
+  
+  #content
+  {
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-right:20px;
+  margin-left:20px;
+  }
+
+p  {
+   background-color: #F2EFDC; /* Ecru White */ 
+   font-family:'Nunito', sans-serif;
+   line-height: 1.4em; 
+   word-spacing:1px;
+   text-indent:20px;
+   overflow: hidden;
+   border-width: 2px;
+   padding:15px;
+   border-style:solid;
+   margin:0px auto;
+   text-align:left;
+   overflow: hidden;
+   -webkit-box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   -moz-box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   border-radius: 31px 31px 31px 31px;
+   -moz-border-radius: 31px 31px 31px 31px;
+   -webkit-border-radius: 31px 31px 31px 31px;
+   border: 0px solid #000000;
+  }
+
+
+#boxone {
+  float:left;
+  margin-left: 0.1%;
+  width: 40%;
+  margin-bottom:10px;
+  padding:15px;
+  }
+ 
+
+#boxtwo {
+  margin-bottom: 10px;
+  }
+.clear {
+  clear: left;
+  }
+
+#boxthree {
+  margin-bottom: 10px;
+  
+  }
+ 
+
+h1, h2, h3 { 
+   background-color: rgb(3,126,140); /*#037E8C Blue Lagoon */
+  }
+
+ul > li {
+   background-color: rgb(231,76,48); /* Cinnabar */ 
+   font-family: 'Titillium Web', cursive;
+   color: white; 
+   list-style-type:square;
+  }
+
+h1 {
+   font-family:'Lobster', cursive; 
+   color:#F2EFDC; 
+   text-align:center; 
+   text-shadow: 2px 2px #666666; 
+   font-size: 6.25em;
+   padding:5px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000; 
+   }
+   
+h2 {
+   font-family: 'Spinnaker', cursive; 
+   font-size: 1.88em; 
+   color:white;
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000;
+
+   }
+   
+   
+h3 { 
+   font-family: 'Bad Script', cursive; 
+   color: white; 
+   text-transform:uppercase;
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000;
+}
+
+a:hover {
+   text-decoration: underline;
+   }
+a:active { 
+   background-color:green;
+  } 
+a:visited { 
+   background-color:yellow;
+  }
+a:link {
+   color: blue;
+  }
+ 
+
+#listone {
+   overflow: hidden;
+  }
+#listwo {
+   overflow: hidden;
+  }
+  
+
+  
