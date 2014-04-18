@@ -1,0 +1,293 @@
+/* HEX and RGB colors from adobe Kuler
+*/
+
+body {
+   background-color: #363636; /* Mine Shaft */
+   background: url("../../../New folder/images/renzler.gif") repeat top right;
+   
+  }
+  
+#nav {
+   font-family: 'Nunito', sans-serif;
+   list-style: none;
+   width: 600px;
+   padding:15px;
+   margin: 0px auto, 0px auto;
+   border-top: 2px solid #000;
+   border-bottom: 1px solid #000;
+   text-align: left;
+  }
+  
+ #nav li{
+   display: inline;
+   margin: 0px 10px;
+   background-color: transparent;
+  }
+  
+  #content
+  {
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-right:20px;
+  margin-left:20px;
+  }
+
+p  {
+   background-color: #F2EFDC; /* Ecru White */ 
+   font-family:'Nunito', sans-serif;
+   line-height: 1.4em; 
+   word-spacing:1px;
+   text-indent:20px;
+   overflow: hidden;
+   border-width: 2px;
+   padding:15px;
+   border-style:solid;
+   margin:0px auto;
+   text-align:left;
+   overflow: hidden;
+   -webkit-box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   -moz-box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.38);
+   border-radius: 31px 31px 31px 31px;
+   -moz-border-radius: 31px 31px 31px 31px;
+   -webkit-border-radius: 31px 31px 31px 31px;
+   border: 0px solid #000000;
+  }
+
+
+#boxone {
+  float:left;
+  margin-left: 0.1%;
+  width: 40%;
+  margin-bottom:10px;
+  padding:15px;
+  }
+ 
+
+#boxtwo {
+  margin-bottom: 10px;
+  } 
+
+#boxthree {
+  margin-bottom: 10px;
+   
+  }
+ 
+h1, h2, h3 { 
+background: #f3c5bd; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YzYzViZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iI2U4NmM1NyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iI2VhMjgwMyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc1JSIgc3RvcC1jb2xvcj0iI2ZmNjYwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjNzIyMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #f3c5bd 0%, #e86c57 50%, #ea2803 51%, #ff6600 75%, #c72200 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f3c5bd), color-stop(50%,#e86c57), color-stop(51%,#ea2803), color-stop(75%,#ff6600), color-stop(100%,#c72200)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=0 ); /* IE6-8 */
+
+  }
+
+ul > li {
+   background-color: rgb(231,76,48); /* Cinnabar */ 
+   font-family: 'Titillium Web', cursive;
+   color: white; 
+   list-style-type:square;
+   }
+
+
+h1 {
+   font-family:'Lobster', cursive; 
+   color:#F2EFDC; 
+   text-align:center; 
+   text-shadow: 2px 2px #666666; 
+   font-size: 6.25em;
+   padding:1px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000; 
+   }
+   
+h2 {
+   font-family: 'Spinnaker', cursive; 
+   font-size: 1.88em; 
+   color:white;
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000;
+
+   }
+   
+   
+h4 { 
+   font-family: 'Bad Script', cursive; 
+   color: white; 
+   text-shadow: 1px 1px 5px #545454;
+   text-transform:uppercase;
+   padding:15px;
+   border-radius: 45px 45px 45px 45px;
+   -moz-border-radius: 45px 45px 45px 45px;
+   -webkit-border-radius: 45px 45px 45px 45px;
+   border: 0px solid #000000;
+   }
+
+a:hover {
+   text-decoration: underline;
+   }
+a:active { 
+   background-color:black;
+  } 
+a:visited { 
+   background-color:#000000;
+  }
+a:link {
+   color: white;
+  }
+ 
+#cite{
+ color: white;
+ }
+
+#listone {
+   overflow: hidden;
+  }
+#listwo {
+   overflow: hidden;
+  }
+  
+
+#allcolumns {
+ background: url("../../../New folder/images/pattern_141.gif") repeat;
+ padding:15px;
+ border-radius: 45px 45px 45px 45px;
+ -moz-border-radius: 45px 45px 45px 45px;
+ -webkit-border-radius: 45px 45px 45px 45px;
+ border: 0px solid #000000;
+ }
+
+ header,nav,section,article,aside,footer {
+ display:block;
+ }
+
+ .tournaments {
+	border-collapse:collapse;
+	border-spacing:0;
+	margin:0px;padding:0px;
+	width:100%;
+	box-shadow: 10px 10px 5px #888888;
+	border:1px solid #000000;
+	
+	-moz-border-radius-bottomleft:16px;
+	-webkit-border-bottom-left-radius:16px;
+	border-bottom-left-radius:16px;
+	
+	-moz-border-radius-bottomright:16px;
+	-webkit-border-bottom-right-radius:16px;
+	border-bottom-right-radius:16px;
+	
+	-moz-border-radius-topright:16px;
+	-webkit-border-top-right-radius:16px;
+	border-top-right-radius:16px;
+	
+	-moz-border-radius-topleft:16px;
+	-webkit-border-top-left-radius:16px;
+	border-top-left-radius:16px;
+ }
+ 
+ .tournaments table {
+    border-collapse: collapse;
+    border-spacing: 0;
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+ }
+
+ .tournaments tr:last-child td:last-child {
+	-moz-border-radius-bottomright:16px;
+	-webkit-border-bottom-right-radius:16px;
+	border-bottom-right-radius:16px;
+ }
+
+ .tournaments table tr:first-child td:first-child {
+	-moz-border-radius-topleft:16px;
+	-webkit-border-top-left-radius:16px;
+	border-top-left-radius:16px;
+ }
+
+ .tournaments table tr:first-child td:last-child {
+	-moz-border-radius-topright:16px;
+	-webkit-border-top-right-radius:16px;
+	border-top-right-radius:16px;
+ }
+ 
+ .tournaments tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:16px;
+	-webkit-border-bottom-left-radius:16px;
+	border-bottom-left-radius:16px;
+ }
+ .tournaments tr:hover td {
+ }
+
+ .tournaments tr:nth-child(odd) { 
+    background-color:#000000; 
+ }
+ .tournaments tr:nth-child(even) { 
+    background-color:#f70e0e; 
+ }
+	
+ .tournaments td {
+	vertical-align:middle;
+	border:1px solid #000000;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:16px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#ffffff;
+ }
+
+ .tournaments tr:last-child td {
+	border-width:0px 1px 0px 0px;
+ }
+
+ .tournaments tr td:last-child {
+	border-width:0px 0px 1px 0px;
+ }
+ 
+ .tournaments tr:last-child td:last-child {
+	border-width:0px 0px 0px 0px;
+ }
+
+ .tournaments tr:first-child td{
+	background:-o-linear-gradient(bottom, #090a09 5%, #090a09 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #090a09), color-stop(1, #090a09) );
+	background:-moz-linear-gradient( center top, #090a09 5%, #090a09 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#090a09", endColorstr="#090a09");	    background: -o-linear-gradient(top,#090a09,090a09);
+    background-color:#090a09;
+	border:0px solid #000000;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:20px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#ffffff;
+ }
+ 
+ .tournaments tr:first-child:hover td {
+	background:-o-linear-gradient(bottom, #090a09 5%, #090a09 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #090a09), color-stop(1, #090a09) );
+	background:-moz-linear-gradient( center top, #090a09 5%, #090a09 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#090a09", endColorstr="#090a09");	    background: -o-linear-gradient(top,#090a09,090a09);
+    background-color:#090a09;
+ }
+ 
+ .tournaments tr:first-child td:first-child {
+	border-width:0px 0px 1px 0px;
+ }
+ 
+ .tournaments tr:first-child td:last-child {
+	border-width:0px 0px 1px 1px;
+ }
