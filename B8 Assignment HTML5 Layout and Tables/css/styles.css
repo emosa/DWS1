@@ -3,7 +3,7 @@
 
 body {
    background-color: #363636; /* Mine Shaft */
-   background: url("../../../New folder/images/renzler.gif") repeat top right;
+   background: url("../images/renzler.gif")repeat top right;
    
   }
   
@@ -159,7 +159,7 @@ a:link {
   
 
 #allcolumns {
- background: url("../../../New folder/images/pattern_141.gif") repeat;
+ background: url("../images/pattern_141.gif") repeat;
  padding:15px;
  border-radius: 45px 45px 45px 45px;
  -moz-border-radius: 45px 45px 45px 45px;
@@ -265,7 +265,8 @@ a:link {
 	background:-o-linear-gradient(bottom, #090a09 5%, #090a09 100%);	
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #090a09), color-stop(1, #090a09) );
 	background:-moz-linear-gradient( center top, #090a09 5%, #090a09 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#090a09", endColorstr="#090a09");	    background: -o-linear-gradient(top,#090a09,090a09);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#090a09", endColorstr="#090a09");	    
+	background: -o-linear-gradient(top,#090a09,090a09);
     background-color:#090a09;
 	border:0px solid #000000;
 	text-align:center;
@@ -280,7 +281,8 @@ a:link {
 	background:-o-linear-gradient(bottom, #090a09 5%, #090a09 100%);	
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #090a09), color-stop(1, #090a09) );
 	background:-moz-linear-gradient( center top, #090a09 5%, #090a09 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#090a09", endColorstr="#090a09");	    background: -o-linear-gradient(top,#090a09,090a09);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#090a09", endColorstr="#090a09");	    
+	background: -o-linear-gradient(top,#090a09,090a09);
     background-color:#090a09;
  }
  
